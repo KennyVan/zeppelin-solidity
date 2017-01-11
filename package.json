@@ -11,8 +11,7 @@
     "truffle": "^2.1.1"
   },
   "scripts": {
-    "test": "truffle test",
-    "install": "scripts/install.sh"
+    "test": "truffle test"
   },
   "repository": {
     "type": "git",
